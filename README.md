@@ -1,4 +1,4 @@
-<div align="center">👋 Hi, I'm Charan Chilukuri
+<div align="center">👋 Hi, I'm Charan Sri Teja Chilukuri
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning+Student;AI+Agent+Developer;Full+Stack+Developer;Building+Real+World+AI+Applications;Always+Learning+Something+New+🚀" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet
 
@@ -113,31 +113,31 @@ Full Stack MERN Application with Authentication and Event Management.
 
 📊 GitHub Statistics
 
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true
+https://github-readme-stats.vercel.app/api?username=CharanSriTeja&show_icons=true&theme=tokyonight&hide_border=true
 
-https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true
+https://github-readme-streak-stats.herokuapp.com/?user=CharanSriTeja&theme=tokyonight&hide_border=true
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=CharanSriTeja&layout=compact&theme=tokyonight&hide_border=true
 
 ---
 
 📈 Contribution Graph
 
-https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night
+https://github-readme-activity-graph.vercel.app/graph?username=CharanSriTeja&theme=tokyo-night
 
 ---
 
 🏆 GitHub Trophies
 
-https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15
+https://github-profile-trophy.vercel.app/?username=CharanSriTeja&theme=algolia&margin-w=15
 
 ---
 
 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://linkedin.com/in/charan-sri-teja-chilukuri"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto: charanchilukuri2299@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>---
 
 💬 Favourite Quote
