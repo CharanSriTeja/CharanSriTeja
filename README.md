@@ -1,6 +1,6 @@
 <div align="center">👋 Hi, I'm Charan Sri Teja Chilukuri
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning+Student;AI+Agent+Developer;Full+Stack+Developer;Building+Real+World+AI+Applications;Always+Learning+Something+New+🚀" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%26+Machine+Learning+Student;AI+Agent+Developer;Full+Stack+Developer;Building+Real+World+AI+Applications;Always+Learning+Something+New+🚀" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Welcome%20to%20My%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn"/>https://komarev.com/ghpvc/?username=CharanSriTeja&style=for-the-badge&color=blueviolet
 
 </div>---
 
@@ -12,7 +12,7 @@
 
 📅 Graduating in 2028
 
-📈 CGPA: 9.42
+📈 CGPA: 9.31
 
 💡 Passionate about Artificial Intelligence, Machine Learning, AI Agents and Backend Development.
 
