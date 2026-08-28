@@ -137,28 +137,6 @@ Document Q&A with a retrieval pipeline across TF-IDF, BM25, and dense embeddings
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CharanSriTeja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanSriTeja&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=CharanSriTeja&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CharanSriTeja&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CharanSriTeja&theme=tokyonight&no-frame=true&margin-w=12&row=1"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 💬 "Code. Learn. Build. Repeat."
 
